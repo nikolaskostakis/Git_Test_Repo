@@ -1,4 +1,0 @@
-# You have nothing to do in this file
-# BUT you have to do on another file
-# open .gitignore and write the name of this file
-# save it and follow the instructions

@@ -1,5 +1,0 @@
-# A simple txt file than needs to be changed
-# Change the sentence and save the file
-
-# Correct sentence: Hello World!
-Hell o Warld!

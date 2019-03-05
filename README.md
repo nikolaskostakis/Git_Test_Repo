@@ -1,21 +1,19 @@
 # A simple Git/GitHub Tutorial
 
-## Master Branch
+## MyBranch Branch
 
-### Local configurations
+This is branch has no purpose. Its existance is mainly to present git's capability
+of working in different verions. Different branches means two or more similar or 
+different development roads.
 
-1. $ git config
-2. $ git init
-3. $ git clone
+A visualization of some branches might be something like that:
 
-### Tutorial
-
-1. Open hello_world.txt and follow the instructions
-2. $ git status
-3. $ git add hello_world.txt
-4. $ git commit -m "My first commit"
-5. Open to_be_ignored.txt and follow the instructions
-6. $ git add -A
-7. $ git commit -m "My second commit"
-8. $ git branch -a
-9. $ git checkout myBranch
+    --+------------------+------> master
+      |                  |
+      |                  +------------+-------------+--> branch4
+      |                               |             |
+      +-----+----> branch1            |             |
+            |                         |             +--------> branch5
+            +----> branch2            |
+            |                         |
+            +-------------------------+-> branch3
