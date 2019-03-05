@@ -18,4 +18,5 @@
 6. $ git add -A
 7. $ git commit -m "My second commit"
 8. $ git branch -a
-9. $ git checkout myBranch
+9. $ git branch myBranch
+10. $ git checkout myBranch
